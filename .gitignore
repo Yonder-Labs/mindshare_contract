@@ -1,0 +1,8 @@
+/target
+.cargo/
+.idea/
+.vscode/
+.cursor 
+.DS_Store
+justfile
+Cargo.lock
