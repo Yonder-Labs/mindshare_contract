@@ -2,6 +2,9 @@
 
 A secure and verifiable smart contract system for managing worker agents in a Trusted Execution Environment (TEE) on NEAR Protocol. This contract provides verification, registration, and access control mechanisms for worker agents.
 
+
+> ℹ️ **Note:** The `Mindshare Trading Agent` is maintained separately at [Yonder-Labs/mindshare_agent](https://github.com/Yonder-Labs/mindshare_agent)
+
 ## Features
 
 - **Worker Registration & Verification**
